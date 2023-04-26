@@ -92,7 +92,7 @@ namespace gymproject
             {
                 MailMessage mail = new MailMessage(from, reader["member_email"].ToString(), subject, body);
                 SmtpClient smtp = new SmtpClient();
-                smtp.Credentials = new System.Net.NetworkCredential("test@ahmetkoca.com.tr", "ufp&u,#tL&L7");
+                smtp.Credentials = new System.Net.NetworkCredential("test@ahmetkoca.com.tr", "password");
                 smtp.Port = 587;
                 smtp.Host = "mail.ahmetkoca.com.tr";
                 smtp.EnableSsl = true;
