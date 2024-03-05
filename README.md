@@ -1,7 +1,7 @@
 # Gym Project csharp
 
 ![Project Image](https://ahmetkoca.dev/github/gym-project/login.png)
-Click for more picture: https://ahmetkoca.com.tr/github/gym-project
+Click for more picture: https://ahmetkoca.dev/github/gym-project
 
 
 
